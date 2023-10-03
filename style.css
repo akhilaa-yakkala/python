@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    padding:0;
+}
+.container1{
+    height:50px;
+    width:100%;
+    background-color:rgb(3, 3, 56);
+    color:white;
+}
